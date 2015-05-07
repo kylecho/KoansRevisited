@@ -1,7 +1,6 @@
-# KoansRevisited
-To keep track of what I have learnt from JavaScript Koans.
-
-See below for original introduction.
+# Javascript Koans Solution
+Here is my solution to Javascript Koans - koans to learn Javascript (the good bits).
+See below for original intro.
 
 # Javascript Koans - koans to learn Javascript (the good bits) #
 
